@@ -1,2 +1,2 @@
-# demo
+# die
 new demo checking
